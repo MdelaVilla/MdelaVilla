@@ -1,6 +1,6 @@
-Manuel de la Villa es **Ingeniero en Informática** y Máster en Tecnologías Informáticas Avanzadas. Profesor e Investigador en el ámbito de la Recuperación de Información y Minería de Textos, habiendo realizado diversas publicaciones en revistas, aportaciones a congresos y participado en varios proyectos de investigación.
+Manuel de la Villa es **Ingeniero en Informática** y Máster en Tecnologías Informáticas Avanzadas. Profesor de asignaturas de Ingeniería del Software e Investigador en el ámbito de la Recuperación de Información y Minería de Textos, habiendo realizado diversas publicaciones en revistas, aportaciones a congresos y participado en varios proyectos de investigación.
 
-Director académico de Informática y Comunicaciones de la Universidad (2017-2021). En la actualidad ejerce de **Director de Estrategia Digital de la Universidad de Huelva.
+Director académico de Informática y Comunicaciones de la Universidad (2017-2021). En la actualidad ejerce de **Director de Estrategia Digital de la Universidad de Huelva**.
 
 Fue Director y profesor del Curso de Experto en Estrategia Social Media, Comunicación y Marketing Online que se impartía en la Universidad de Huelva
 
