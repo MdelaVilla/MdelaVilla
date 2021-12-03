@@ -13,7 +13,7 @@ Es profesor del título propio “Formación universitaria para la mejora de la 
 
 Previamente había desarrollado su carrera profesional en el ámbito del desarrollo de Sistemas Informáticos desde 1996. Comienza trabajando en **Arión Consultores**, como programador de aplicaciones propias de la empresa y en helpdesk para pasar al CPD de **CECOFAR (Centro Cooperativo Farmacéutico)**, empresa andaluza de Distribución Farmacéutica, con más de 350 empleados, factura más de 70.000 mill. ptas. (datos año 2000), donde realiza labores de Análisis y Programación de Aplicaciones, principalmente en las aplicaciones de Distribución y Contabilidad de la empresa, en el soporte a los departamentos de Farmacuenta (Banco Virtual), Tesorería y RR.HH. y en la migración a SAP/R3.
 
-Durante su etapa como estudiante universitario, había trabajado 4 veranos en **'El Monte, Caja de Ahorros de Huela y Sevilla'** (actualmente 'La Caixa')
+Durante su etapa como estudiante universitario, había trabajado 4 veranos en **'El Monte, Caja de Ahorros de Huelva y Sevilla'** (actualmente 'La Caixa') como cajero.
 
 Puedes encontrarme en:<br>
 <a href="https://scholar.google.es/citations?user=EkOzJ9kAAAAJ&hl=es"> Google Scholar</a><br>
