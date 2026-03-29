@@ -14,7 +14,7 @@ Desde 2021 es profesor del título propio “Formación universitaria para la me
 
 Previamente había desarrollado su carrera profesional en el ámbito del desarrollo de Sistemas Informáticos desde 1996 hasta 2002. Comienza trabajando en **Arión Consultores**, como programador de aplicaciones propias de la empresa y en helpdesk para pasar al CPD de **CECOFAR (Centro Cooperativo Farmacéutico, actualmente Bidafarma)**, empresa andaluza de Distribución Farmacéutica, con más de 350 empleados, factura más de 70.000 mill. ptas. (datos año 2000), donde realiza labores de Análisis y Programación de Aplicaciones, principalmente de Distribución y Contabilidad de la empresa, en el soporte a los departamentos de Farmacuenta (Banco Virtual), Tesorería y RR.HH. y en la migración a SAP/R3. Durante su etapa como estudiante universitario, había trabajado 4 veranos en **'El Monte, Caja de Ahorros de Huelva y Sevilla'** (actualmente 'La Caixa') como cajero.
 
-En un ámbito más lúdico y personal, ha sido deportista veterano finalizando 3 Maratones (Sevilla '16 y '17, Valencia '19) y 15 Medias Maratones (destacando San Sebastián '15, Sevilla '16, '17 o R'n'r Madrid '22), así como diversos Duatlones y Triatlones. 
+En un ámbito más lúdico y personal, ha sido deportista veterano finalizando 3 Maratones (Sevilla '16 y '17, Valencia '19) y 16 Medias Maratones (destacando San Sebastián '15, Sevilla '16, '17 o R'n'r Madrid '22), así como diversos Duatlones y Triatlones. 
 
 Puedes encontrarme en:<br>
 <a href="https://scholar.google.es/citations?user=EkOzJ9kAAAAJ&hl=es"> Google Scholar</a><br>
